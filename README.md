@@ -6,6 +6,40 @@
     <title>Anindita Ghosh - Personal Webpage</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
+        /* Example media query for mobile devices */
+@media (max-width: 600px) {
+    .resume-content {
+        font-size: 14px; /* Adjust font size for readability */
+        padding: 10px; /* Adjust padding for better spacing */
+        width: 100%; /* Ensure content takes full width */
+    }
+}
+.resume-content {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    .resume-content {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+.resume-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.resume-section {
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+
         body, html {
             margin: 0;
             padding: 0;
@@ -534,27 +568,49 @@ box-sizing: border-box;
             50% { background-position: 100% 50%; }
             100% { background-position: 0% 50%; }
         }
-        .achievement-buttons {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .achievement-buttons a {
-            background-color: #e78223f3;
-            color: white;
-            box-shadow: #333;
-            padding: 15px 30px;
+    
+.achievement-buttons ol {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;
+}
+
+.achievement-buttons li {
+    margin-bottom: 15px; /* Add space between each list item */
+}
+
+.achievement-buttons p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.achievement-buttons a {
+
+           background-position: 2px;
+            box-shadow: #000000;
+    color: #007bff;
+    box-shadow: #000000;
+            padding: 12px 20px;
             font-size: 18px;
             border-radius: 5px;
             cursor: pointer;
             transition: background-color 0.3s;
             text-decoration: none;
             margin: 5px;
-        }
-        .achievement-buttons a:hover {
-            background-color: #333; text-transform: uppercase;
-        }
-      
+    text-decoration: none;
+}
+
+.achievement-buttons a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .achievement-buttons p {
+        font-size: 14px;
+    }
+}
+
         footer {
             text-align: center;
             padding: 10px;
@@ -698,15 +754,23 @@ box-sizing: border-box;
             <h5 align="left" tabindex="uppercase" >Achievements</h5> 
              <p align="center"><b>Here are some of my Certificates:</b></p>
 
-            <div class="achievement-buttons">
-                <ol>
-<li><p>View Certificate (coursera):👉<a href="certificate1.pdf" target="_blank">View Certificate (coursera)</a></p></li>
- <li><p>View Certificate (coursera):👉<a href="certificate2.pdf" target="_blank">View Certificate (coursera)</a></p></li>
-                <li><p>View Certificate (coursera):👉<a href="certificate3.pdf" target="_blank">View Certificate (coursera)</a></p></li></ol>
-            </div>
-        </section>
-        
-          <div>
+           <div class="achievement-buttons">
+    <menu>
+        <menu>
+            <p>View Certificate (coursera): 👉 <a href="certificate1.pdf" target="_blank">View Certificate (coursera)</a></p>
+        </menu>
+        <menu>
+            <p>View Certificate (coursera): 👉 <a href="certificate2.pdf" target="_blank">View Certificate (coursera)</a></p>
+        </menu>
+    <menu>
+            <p>View Certificate (coursera): 👉 <a href="certificate3.pdf" target="_blank">View Certificate (coursera)</a></p>
+        </menu>
+    <menu>
+            <p>View Certificate (webinar On Quantum Computing): 👉 <a href="Ms. Anindita Ghosh MAKAUT.pdf" target="_blank">View Certificate (webinar)</a></p>
+        </menu>
+    </menu>
+</div>
+</section>
        
     </div>
 <div>
