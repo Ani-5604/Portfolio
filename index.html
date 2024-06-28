@@ -725,7 +725,7 @@ box-sizing: border-box;
                                 <P>To know More click 
                                    👇
                                     </P>
-            <a href="CV_2024062722103022.pdf" target="_blank">Resume</a>
+            <a href="CV.pdf" target="_blank">Resume</a>
        
         </div>
                             </div>
