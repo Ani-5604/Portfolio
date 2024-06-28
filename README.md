@@ -766,7 +766,7 @@ box-sizing: border-box;
             <p>View Certificate (coursera): 👉 <a href="certificate3.pdf" target="_blank">View Certificate (coursera)</a></p>
         </menu>
     <menu>
-            <p>View Certificate (webinar On Quantum Computing): 👉 <a href="Ms.Anindita Ghosh MAKAUT.pdf" target="_blank">View Certificate (webinar)</a></p>
+            <p>View Certificate (webinar On Quantum Computing): 👉 <a href="Ms. Anindita Ghosh MAKAUT.pdf" target="_blank">View Certificate (webinar)</a></p>
         </menu>
     </menu>
 </div>
