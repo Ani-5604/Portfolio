@@ -744,7 +744,7 @@ box-sizing: border-box;
                     <li><p>Student Admission form (using Python GUI): 👉<a href="form.jpg"><u>Student Form</u></a></p></li>
                     <li><p>Calculator (using HTML, CSS, JS): 👉<a href="calculator.html"><u>Basic Calculator</u></a></p></li>
                     <li><p>Income Tax Calculator (using HTML, CSS, JS): 👉<a href="incometaxcalculate.html"><u>Income Tax Calculator</u></a></p></li>
-                 <li><p>TO-DO-LIST (using HTML, CSS, JS): 👉<a href="todolist.html"><u>TO-DO-LIST </u></a></p></li>
+                 <li><p>TO-DO-LIST (using HTML, CSS, JS): 👉<a href="todo.html"><u>TO-DO-LIST </u></a></p></li>
                  <li><p>ONLINEQUIZPLATFORM (using HTML, CSS, JS): 👉<a href="quizplatform.html"><u>ONLINEQUIZPLATFORM</u></a></p></li></ol>
             </div>
         </section>
