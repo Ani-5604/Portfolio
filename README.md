@@ -403,8 +403,8 @@
             width: 45%;
         }
         .map-container iframe {
-            width: 700px;
-            height: 100px;
+            
+          
             border: 0;
         }
         .resume {
@@ -745,8 +745,11 @@ box-sizing: border-box;
                     <li><p>Calculator (using HTML, CSS, JS): 👉<a href="calculator.html"><u>Basic Calculator</u></a></p></li>
                     <li><p>Income Tax Calculator (using HTML, CSS, JS): 👉<a href="incometaxcalculate.html"><u>Income Tax Calculator</u></a></p></li>
                  <li><p>TO-DO-LIST (using HTML, CSS, JS): 👉<a href="todo.html"><u>TO-DO-LIST </u></a></p></li>
-                 <li><p>ONLINEQUIZPLATFORM (using HTML, CSS, JS): 👉<a href="quizplatform.html"><u>ONLINEQUIZPLATFORM</u></a></p></li></ol>
-            </div>
+                 <li><p>ONLINEQUIZPLATFORM (using HTML, CSS, JS): 👉<a href="quizplatform.html"><u>ONLINEQUIZPLATFORM</u></a></p></li>
+                 <li><p>AGE CALCULATOR(using HTML, CSS, JS): 👉<a href="age_cal.html"><u>AGECALCULATOR</u></a></p></li>
+                </ol>
+                </div>
+                </div>
         </section>
         
         <section id="achievements" class="section achievements">
@@ -767,6 +770,15 @@ box-sizing: border-box;
         </menu>
     <menu>
             <p>View Certificate (webinar On Quantum Computing): 👉 <a href="quantumieee.pdf" target="_blank"><u>View Certificate (webinar)</u></a></p>
+        </menu>
+        <menu>
+            <p>View Certificate (Course On Udemy): 👉 <a href="udemy.pdf" target="_blank"><u>(Course On Udemy)</u></a></p>
+        </menu>
+        <menu>
+            <p>View Certificate (Course On Udemy): 👉 <a href="udemy1.pdf" target="_blank"><u>(Course On Udemy)</u></a></p>
+        </menu>
+        <menu>
+            <p>View Certificate (Course On Udemy): 👉 <a href="udemy2.pdf" target="_blank"><u>(Course On Udemy)</u></a></p>
         </menu>
     </menu>
 </div>
