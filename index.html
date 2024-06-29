@@ -725,7 +725,7 @@ box-sizing: border-box;
                                 <P>To know More click 
                                    👇
                                     </P>
-            <a href="CV.pdf" target="_blank">Resume</a>
+            <a href="CV.pdf" target="_blank"><u>Resume</u></a>
        
         </div>
                             </div>
@@ -757,16 +757,16 @@ box-sizing: border-box;
            <div class="achievement-buttons">
     <menu>
         <menu>
-            <p>View Certificate (coursera): 👉 <a href="certificate1.pdf" target="_blank">View Certificate (coursera)</a></p>
+            <p>View Certificate (coursera): 👉 <a href="certificate1.pdf" target="_blank"><u>View Certificate (coursera)</u></a></p>
         </menu>
         <menu>
-            <p>View Certificate (coursera): 👉 <a href="certificate2.pdf" target="_blank">View Certificate (coursera)</a></p>
+            <p>View Certificate (coursera): 👉 <a href="certificate2.pdf" target="_blank"><u>View Certificate (coursera)</u></a></p>
         </menu>
     <menu>
-            <p>View Certificate (coursera): 👉 <a href="certificate3.pdf" target="_blank">View Certificate (coursera)</a></p>
+            <p>View Certificate (coursera): 👉 <a href="certificate3.pdf" target="_blank"><u>View Certificate (coursera)</u></a></p>
         </menu>
     <menu>
-            <p>View Certificate (webinar On Quantum Computing): 👉 <a href="quantumieee.pdf" target="_blank">View Certificate (webinar)</a></p>
+            <p>View Certificate (webinar On Quantum Computing): 👉 <a href="quantumieee.pdf" target="_blank"><u>View Certificate (webinar)</u></a></p>
         </menu>
     </menu>
 </div>
