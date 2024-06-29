@@ -741,7 +741,7 @@ box-sizing: border-box;
                 <p align="center"><b>Here are some of my works:</b></p>
                 <ol>
                     <li><p>Tic Tac Toe game website (using HTML, CSS, JS): 👉<a href="tictactoe.html"><u>TicTacToe Game</u></a></p></li>
-                    <li><p>Student Admission form (using Python GUI): 👉<a href="form.jpg"><u>Student Form</u></a></p></li>
+                    <li><p>Student Admission form (using Python GUI): 👉<a href="form1.jpg" ><u>STUDENT-FORM</u></a><font color=#00000>||</font><u><a href="FORM.jpg" >Student Form</a><a href="save.jpg"><u><font color=#00000>||</font>Student Form save<font color=#00000>||</font><a href="STUDENT.csv"></u><u>Student document</u></a></a></a></p></li>
                     <li><p>Calculator (using HTML, CSS, JS): 👉<a href="calculator.html"><u>Basic Calculator</u></a></p></li>
                     <li><p>Income Tax Calculator (using HTML, CSS, JS): 👉<a href="incometaxcalculate.html"><u>Income Tax Calculator</u></a></p></li>
                  <li><p>TO-DO-LIST (using HTML, CSS, JS): 👉<a href="todo.html"><u>TO-DO-LIST </u></a></p></li>
